@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets - Global Quotes, Charts & Financial Screener",
+  "description": "Real-time market quotes, streaming interactive charts, trending global indices, sentiment, and financial screeners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
